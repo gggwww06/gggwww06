@@ -4,10 +4,14 @@
 
 ### Welcome to HyeJin's GitHub 👽
 
-</div>
 <br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgggwww06&count_bg=%23669BBC&title_bg=%23C1121F&icon=github.svg&icon_color=%23FDF0D5&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
+
+[![HyeJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gggwww06&custom_title=HyeJin's%20GitHub%20👽&show_icons=true&bg_color=100,003049,780000&title_color=FDF0D5&text_color=669BBC&icon_color=C1121F)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **gggwww06/gggwww06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
