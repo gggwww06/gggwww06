@@ -11,15 +11,14 @@
 <br/>
 
 #### 🌟 Contact 🌟
-<!-- [![이름 Badge](뱃지로고주소&logoColor=white&link={url})]({주소(url)}) -->
+
+![Gmail Badge](https://img.shields.io/badge/-dbsgpwls0316@gmail.com-EA4335?logo=gmail&logoColor=white)
 
 <br/>
 
 #### 🌟 Dev 🌟
 
 [![HyeJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gggwww06&custom_title=HyeJin's%20GitHub%20&show_icons=true&bg_color=100,669BBC,C1121F&title_color=003049&text_color=FDF0D5&icon_color=C1121F)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gggwww06&layout=compact&custom_title=Languages&show_icons=true&bg_color=60,669BBC,C1121F&title_color=003049&text_color=FDF0D5)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 </div>
 
