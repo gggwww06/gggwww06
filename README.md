@@ -1,4 +1,10 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=150&section=header&text=🛸&fontSize=100&animation=scaleIn)
+
+### <center>Welcome to HyeJin's GitHub 👽</center>
+---
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgggwww06&count_bg=%23669BBC&title_bg=%23C1121F&icon=github.svg&icon_color=%23FDF0D5&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **gggwww06/gggwww06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
