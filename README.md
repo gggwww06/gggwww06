@@ -16,7 +16,7 @@
 #### 🌟 Contact 🌟
 
 <!-- gmail badge -->
-![Gmail Badge](https://img.shields.io/badge/-dbsgpwls0316@gmail.com-EA4335?logo=gmail&logoColor=white)
+[![Gmail Badge](https://img.shields.io/badge/-dbsgpwls0316@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:dbsgpwls0316@gmail.com)
 
 <br/>
 
