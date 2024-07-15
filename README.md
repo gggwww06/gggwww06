@@ -1,7 +1,7 @@
+<div align="center">
+
 <!-- header -->
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=150&section=header&text=🛸&fontSize=100&animation=scaleIn)
-
-<div align="center">
 
 ### Welcome to HyeJin's GitHub 👽
 
